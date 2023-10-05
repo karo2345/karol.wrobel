@@ -1,0 +1,10 @@
+Temat cookie 
+są to informacje 
+cookie sa informacjami na komputerze klijenta 
+przed przeslaniem zawartosci strony przesylane sa wymienianie sa naglowki http 
+w nim moze byc przeslane ciasteczko w formacje  
+set cookie name = wartosc [expifires=Data]
+(path sciezka domain nazwa domeny search 
+w pierwszkolejnosci poszukuje cookie lokalnych 
+jezeli ktorys z nich jest odpowiedznie dla danego urla zostanie przekazane serwerowi 
+bool setcookie string nazwa string wartosc int wygasa safing sciezk string domena int shedura 
