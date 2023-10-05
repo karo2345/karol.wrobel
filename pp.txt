@@ -1,0 +1,24 @@
+echo 
+dowolna długość
+dopuszcanie są litery z kodu acch cyfry znaki 
+podkreslenia znak dolaru brak polskich znakow 
+nie moze rozpoczynas sie od cyfry 
+rozpoznawane sa wielkosci znakow 
+nazwa powinna jednoznacznie wyznaczasz przeznaczenie 
+przy dluginc nazwach stosujemy csmal case
+skrypty php mozna dowolnie mieszac albo umieszczas w kodzie html  
+typy danych 
+php operujemy roznymi danymi aplikacji aby sprawdzic typ informacji mozemy uzyc funkcji get tipe 
+aby wyswietlic informacji o zmiennej uzywamy funkcji fat tibe 
+w php wwystepuja 4 typy skalarne 
+boll
+int
+float
+string
+
+liczbty calkowite
+
+reprezentuje liczbe calkowita moze byc przedstawione jako liczb dziesietna szesnastkowa osemkowa lub binarna 
+
+liczby rzeczywiste  
+liczby zwane rówież float double zawiera czosc 
