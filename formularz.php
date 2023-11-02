@@ -1,4 +1,6 @@
 
+
+<style>  .error {color: #FF0000;} </style>
 $nameErr = $emailErr = $genderErr = $websiteErr = "";
 $name = $email = $gender = $comment = $website = "";
 
