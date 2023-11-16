@@ -1,0 +1,11 @@
+SELECT imie, nazwisko FROM autorzy ORDER BY nazwisko ASC;
+INSERT INTO czytelnicy (imie, nazwisko, kod) VALUES ('Ewa', 'Kowalska', 145321);
+SELECT tytul FROM ksiazki WHERE 'dramat';
+Rozszerz Wykonaj zapytanie ponownie Edytuj Wyjaśnij Profilowanie Dodaj do zakładek Baza danych : biblioteka Czas zapytania : 7:50:4
+SELECT * FROM `ksiazki`
+SELECT * FROM `ksiazki`
+SELECT * FROM `ksiazki`
+SELECT * FROM `wypozyczenia`
+SELECT * FROM `wypozyczenia`
+SELECT * FROM `wypozyczenia`
+SELECT tytul FROM ksiazki JOIN wypozyczenia ON id_ksiazka = id_ksiazka WHERE id_czytelnik = 2;
