@@ -1,0 +1,7 @@
+Karol Wróbel kaniam się
+Ze wzgldu na ostatnie wiadomoci zwrotne uprzejmie informuje że zmieniam nieznacznie podejcie do tworzenia stron 
+Moje podejćie do tej pory było takie aby strona działała a nie koniecznie aby wczystkie pliki się zgadzały zgodnie z formularzem egzaminu 
+Od tej pory postaram się aby pliki ,nazwy ,rozczeżenia ,luki w kodzie np.dwókrotnie napisana funkcja ,sposób pisania
+np. zamiast section div  ,zgadzały się z formularzem egzaminu 
+04.12.2023 została praca pod tym kątem poprawiona 
+Pozdrawiam

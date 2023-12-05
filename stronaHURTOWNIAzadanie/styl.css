@@ -1,0 +1,80 @@
+/* Domyślne formatowanie */
+body {
+    font-family: Georgia;
+    text-align: center;
+    box-sizing: border-box; 
+}
+
+/* Baner i stopka */
+#baner, #stopka {
+    background-color: #4BA3C7;
+    color: white;
+    height: 80px;
+    font-size: 120%;
+    
+}
+#stopka {
+    
+    margin-top: -25px;
+    
+
+}
+ 
+/* Kontenery poziome */
+#lewy, #prawy, #srodkowy {
+    display: inline-block;
+    vertical-align: top;
+    
+    
+}
+#lewy, #prawy {
+    background-color: #EFEFEF;
+    height: 500px;
+    width: 30%;
+    box-sizing: border-box;
+}
+
+
+#prawy {
+    margin-right: -80px;   
+}
+#lewy {
+    margin-left: -90px; 
+}
+
+/* Panel środkowy */
+#srodkowy {
+    background-color: #90CAF9;
+    height: 500px;
+    width: 40%;
+    box-sizing: border-box;
+    
+}
+
+/* Selektor tabeli */
+table {
+    margin-left: 10px;
+    width: 90%;
+    border: 1px solid #90CAF9;
+    
+}
+
+/* Selektor komórek tabeli */
+table td {
+    padding: 5px;
+    border: 1px solid #90CAF9;
+}
+
+/* Zmiana koloru tekstu po najechaniu kursorem na wiersz tabeli */
+table tr:hover {
+    color: #90CAF9;
+}
+
+/* Selektor pola edycyjnego */
+input[type="number"] {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    
+}
